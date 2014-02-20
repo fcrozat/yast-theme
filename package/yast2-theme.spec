@@ -17,7 +17,7 @@
 
 
 Name:           yast2-theme
-Version:        3.1.5
+Version:        3.1.6
 Release:        0
 
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
@@ -168,4 +168,5 @@ ln -snf openSUSE-Oxygen openSUSE-current
 %defattr(-,root,root)
 %dir %{yast_themedir}
 %{yast_themedir}/SLE
+/usr/share/icons/hicolor/*/apps/*
 

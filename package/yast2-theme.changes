@@ -1,4 +1,11 @@
 -------------------------------------------------------------------
+Thu Feb 20 15:47:44 UTC 2014 - fcrozat@suse.com
+
+- package icons for yast2-control-center-gnome in SLE subpackage
+  [bnc#864830]
+- 3.1.6
+
+-------------------------------------------------------------------
 Thu Feb 13 18:03:49 UTC 2014 - lslezak@suse.cz
 
 - updated package selector style (by Ken Wimer)
